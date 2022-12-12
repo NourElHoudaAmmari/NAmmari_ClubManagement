@@ -1,0 +1,22 @@
+{
+  "name": "club_management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://NourelhoudaAmmari@bitbucket.org/nourelhoudaammari/nammari_clubmanagment.git"
+  },
+  "author": "nour",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
